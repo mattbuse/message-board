@@ -23,7 +23,7 @@ export default function AddPostForm() {
             setTitle('')
             setContent('')
         } else {
-            alert('Please enter a title, content and name')
+            alert('Please enter a title, message and name')
         }
     }
 
